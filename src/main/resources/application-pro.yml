@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+girl:
+  cupSize: A
+  age: 12
+  content: BBBB
+
+code: SA

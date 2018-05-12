@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+girl:
+  cupSize: D
+  age: 18
+  content: AAAA
+
+code: SA
